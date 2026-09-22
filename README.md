@@ -112,14 +112,14 @@
 
 ## 🧪 Testing Approach
 
-| Layer | React / Web | React Native |
-|---|---|---|
-| **Unit** | Jest · Vitest | Jest |
-| **Component** | React Testing Library | React Native Testing Library |
-| **Hooks** | `@testing-library/react-hooks` | `@testing-library/react-native` |
-| **E2E / Integration** | Playwright · Cypress | Detox · Maestro |
-| **API Mocking** | MSW | MSW |
-| **Coverage** | Istanbul / c8 | Istanbul / c8 |
+| Layer                 | React / Web                    | React Native                    |
+| --------------------- | ------------------------------ | ------------------------------- |
+| **Unit**              | Jest · Vitest                  | Jest                            |
+| **Component**         | React Testing Library          | React Native Testing Library    |
+| **Hooks**             | `@testing-library/react-hooks` | `@testing-library/react-native` |
+| **E2E / Integration** | Playwright · Cypress           | Detox · Maestro                 |
+| **API Mocking**       | MSW                            | MSW                             |
+| **Coverage**          | Istanbul / c8                  | Istanbul / c8                   |
 
 ---
 
@@ -130,7 +130,7 @@
 <td width="60">🎓</td>
 <td>
 
-**Bachelor of Software Engineering** — *Class of 2026*
+**Bachelor of Software Engineering** — _Class of 2026_
 <br/>
 <sub>Mediterranean University of Albania</sub>
 
@@ -142,19 +142,32 @@
 
 ## 📊 GitHub Stats
 
-> ⚠️ If any card below shows *"Failed to retrieve contributions"*, it's a rate-limit issue with the public hosting instance — not your account. Self-host the service or refresh later.
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eljohoxha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=94A3B8&ring_color=7C3AED" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eljohoxha&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=94A3B8&langs_count=8" alt="Top Languages"/>
+  <img
+    height="180em"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eljohoxha&hide_border=true&background=0D1117&stroke=1F2937&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak Stats"/>
+  <img
+    src="https://streak-stats.demolab.com?user=eljohoxha&hide_border=true&background=0D1117&stroke=1F2937&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eljohoxha&bg_color=0D1117&color=94A3B8&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
+  <img
+    src="./profile/activity-graph.svg"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
